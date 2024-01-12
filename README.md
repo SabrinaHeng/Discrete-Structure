@@ -14,9 +14,10 @@
 
 <h3>
   
-  [Assignment](https://github.com/SabrinaHeng/Discrete-Structure/tree/main/Assignment)
+ * [Assignment](https://github.com/SabrinaHeng/Discrete-Structure/tree/main/Assignment)
 </h3>
 
 <h3>
-  [Quiz]()
+  
+ * [Quiz](https://github.com/SabrinaHeng/Discrete-Structure/tree/main/Quiz)
 </h3>
