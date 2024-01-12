@@ -13,7 +13,8 @@
 </h2>
 
 <h3>
-  [Assignment]()
+  
+  [Assignment](https://github.com/SabrinaHeng/Discrete-Structure/tree/main/Assignment)
 </h3>
 
 <h3>
